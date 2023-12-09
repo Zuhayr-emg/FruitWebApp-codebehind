@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cu4oN6AKKrdb6fZQpBPIjXbaz+671yrBxfwxCWz9sLiEmfpoty60olcF1Fmoh2rzLgmRVsMgtk1XPCuxSj/Myg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arvinsuman\\Documents\\Xamp\\htdocs\\projects\\.net\\httpclient\\FruitWebApp-codebehind\\FruitWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arvinsuman\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Arvinsuman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Arvinsuman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Arvinsuman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
